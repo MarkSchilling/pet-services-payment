@@ -1,3 +1,6 @@
+# Pet Services Payment
+## System Design
+
 A high-level design for a pet services payment system:
 
 1. User Authentication: The payment system should allow users to authenticate themselves securely. This can be achieved by implementing a login system that requires users to provide their username and password or using third-party authentication services such as Google, Facebook, or Apple.

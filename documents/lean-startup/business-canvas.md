@@ -1,8 +1,7 @@
 
 # Pet Service Payment System
 ## Business Canvas
-Lets you look at all nine building blocks of your business on one page. Each component of the business model contains a series of hypothesises that you need to test.
-summarize their hypotheses in a framework called a business model canvas. Essentially, this is a diagram of how a company creates value for itself and its customers.
+Here is how the Pet Service Payment App creates value for itself and its customers. Listed are the nine building blocks of the business. Each component holds a set of hypothesises that we will examine.
 
 ### Customer Segments:
 
