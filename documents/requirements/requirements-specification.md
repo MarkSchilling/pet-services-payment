@@ -8,8 +8,9 @@ A requirement describes a condition or capability to which a system must conform
 
 ### Functional Requirements:
 The list of behaviors that describe the system's expected behavior. Specify the input and output behavior of a system.
+1. Allow pet service provider to notify pet owner when pet is ready to be picked up.
 1. Allow pet owners to view their bill and payment options.
-1. Allow pet owners to make payments online using a secure payment gateway.
+1. Allow pet owners to make payments online using a secure payment gateway in advance of picking up pet or at pickup.
 1. Allow pet service providers to update the bill amount and status (paid/unpaid) for each pet service.
 1. Notify pet service providers when a payment has been received.
 1. Generate receipts and transaction reports for pet owners and pet service providers.
@@ -17,7 +18,8 @@ The list of behaviors that describe the system's expected behavior. Specify the 
 ### Non-Functional Requirements:
 The list of other qualities or constraints to which the system must conform. This includes characteristics such as usability, trustworthiness, speed, and maintainability.
 
-1. The system should be secure and protect sensitive user information.
+1. The system should help to speed up the process of notifying and paying pet service providers.
+2. The system should be secure and protect sensitive user information.
 1. The system should be user-friendly and easy to navigate for pet owners and pet service providers. 
 1. The system should be reliable and available 24/7.
 1. The system should be scalable to accommodate increasing numbers of users and transactions.
